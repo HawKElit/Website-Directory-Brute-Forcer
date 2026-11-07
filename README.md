@@ -1,0 +1,1 @@
+Simply run the .py file in any python text editor / terminal. Attatch the word list to the same directory you save the .py file into. You may use your own, or any wordlist you find. Just drag it into the proper directory and update the script "with open" function.
